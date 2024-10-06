@@ -1,6 +1,5 @@
-public class Main {
+public class HolaJuan {
     public static void main(String[] args) {
-        System.out.println("Hola mundo, me llamo Juan Cristian Llobera Vázquez!");
+        System.out.println("Hola, me llamo Juan Cristian Llobera Vázquez");
     }
-    
 }
